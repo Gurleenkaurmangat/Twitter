@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // gurleen kaur mangat
+=======
+>>>>>>> 923a9b293b9e0ed6fa28a33c81ee358710ced9f0
 import React from 'react';
 import {
   View, Text,Alert,  StyleSheet, Image, ScrollView, TouchableOpacity,
