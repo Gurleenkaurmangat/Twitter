@@ -1,3 +1,4 @@
+// gurleen kaur mangat
 import React from 'react';
 import {
   View, Text,Alert,  StyleSheet, Image, ScrollView, TouchableOpacity,
